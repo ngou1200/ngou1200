@@ -157,15 +157,3 @@ mindmap
   
   ![Visitors](https://api.visitorbadge.io/api/visitors?path=ngou1200&label=Profile%20Views&labelColor=%23697689&countColor=%232ccce4)
 </div>
-
-<!-- 
-Repository Structure:
-└── 📁 ngou1200
-    └── 📄 README.md
-
-Maintenance Tips:
-1. Update skills and proficiency regularly
-2. Keep GitHub stats current
-3. Add new projects as they're completed
-4. Maintain active GitHub contributions
-
