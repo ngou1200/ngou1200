@@ -1,53 +1,74 @@
 <div align="center">
+
+  <!-- Animated background using SVG waves -->
+  <img src="https://raw.githubusercontent.com/ngou1200/animated-assets/main/wave-bg-top.svg" width="100%" alt="animated background" />
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ngo%20Huu%20Loc&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" />
+
+  <!-- You can use a custom animated GIF or SVG here for more effects -->
+  <img src="https://raw.githubusercontent.com/ngou1200/animated-assets/main/particles.gif" width="100%" alt="animated particles" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Nick+%F0%9F%91%8B;Full-Stack+Developer;Creative+Designer;Problem+Solver" />
+
+  <br>
+
+  [![Profile Views](https://komarev.com/ghpvc/?username=ngou1200&color=blueviolet&style=for-the-badge)](https://github.com/ngou1200)
+  [![GitHub followers](https://img.shields.io/github/followers/ngou1200?style=for-the-badge&logo=github)](https://github.com/ngou1200)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/ngou1200?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/benhan871986)
+
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Nick+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Welcome+to+my+Profile!" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  
-[![Profile Views](https://komarev.com/ghpvc/?username=ngou1200&color=blueviolet&style=for-the-badge)](https://github.com/ngou1200)
-[![GitHub followers](https://img.shields.io/github/followers/ngou1200?style=for-the-badge&logo=github)](https://github.com/ngou1200)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ngou1200?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/benhan871986)
-
-</div>
-
-<div align="center">
-  
 ```typescript
 const nick = {
     fullName: "Ngo Huu Loc",
     location: "Vietnam 🇻🇳",
     languages: ["Vietnamese", "English (GB & US)"],
     type: "Full-Stack Developer",
-    lastActive: "9:32 AM on May 21, 2025",
+    lastActive: "12:39 PM on June 20, 2025",
     motto: "Choose to become extraordinary",
+    expertise: ["Web Development", "UI/UX Design", "Cloud Solutions"],
     contact: {
         github: "ngou1200",
         twitter: "ngou1200"
     }
 };
 ```
-
 </div>
 
 ---
 
-### 🧰 Technology Arsenal
+### 🚀 Technology Stack
 
 <details open>
-<summary><b>🔧 Core Technologies</b></summary>
+<summary><b>🎨 Frontend & Design</b></summary>
 <br>
 
 <div align="center">
 
 | Category | Technologies |
 |----------|-------------|
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| **Core** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Frameworks** | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
+| **Styling** | ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+
+</div>
+</details>
+
+<details open>
+<summary><b>⚡ Backend & Infrastructure</b></summary>
+<br>
+
+<div align="center">
+
+| Category | Technologies |
+|----------|-------------|
+| **Runtime & Languages** | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Backend as a Service** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white) |
+| **Tools & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
 </div>
 </details>
@@ -61,8 +82,9 @@ const nick = {
 ```text
 Frontend Development    ████████████████████░   95%
 Backend Development    ████████████████████░   90%
-System Design          ███████████████░░░░░░   75%
-Database Management    ██████████████░░░░░░░   70%
+UI/UX Design          ███████████████████░░   85%
+Cloud Solutions       ███████████████░░░░░░   75%
+Database Management   ██████████████░░░░░░░   70%
 ```
 
 </div>
@@ -87,17 +109,7 @@ Database Management    ██████████████░░░░░
 
 ---
 
-### 🌟 Featured Repositories
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ngou1200&repo=ngou1200&theme=tokyonight)](https://github.com/ngou1200/ngou1200)
-
-</div>
-
----
-
-### 🎯 Current Focus
+### 🎯 Current Focus & Learning Path
 
 <div align="center">
 
@@ -105,18 +117,22 @@ Database Management    ██████████████░░░░░
 mindmap
   root((Nick's Focus))
     Full-Stack Development
-      Frontend Development
-        UI/UX Design
-        React Components
-        Responsive Design
-      Backend Development
-        API Architecture
-        Database Design
-        Server Optimization
-    System Architecture
-      Scalable Solutions
-      Performance Optimization
-      Best Practices
+      Frontend Excellence
+        Vue.js Mastery
+        SASS Architecture
+        UI/UX with Figma
+      Backend Solutions
+        API Design
+        Database Optimization
+        Serverless Architecture
+    Cloud Infrastructure
+      Supabase Integration
+      Appwrite Solutions
+      Performance at Scale
+    Modern Development
+      Component Design
+      State Management
+      Testing Strategies
 ```
 
 </div>
@@ -149,11 +165,12 @@ mindmap
 ---
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/ngou1200/animated-assets/main/wave-bg-bottom.svg" width="100%" alt="animated background" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
 
 <div align="center">
-  <b>Last Updated: 2025-05-21 03:17:19 UTC</b>
+  <b>Last Updated: 2025-06-20 12:39:40 UTC</b>
   
   ![Visitors](https://api.visitorbadge.io/api/visitors?path=ngou1200&label=Profile%20Views&labelColor=%23697689&countColor=%232ccce4)
 </div>
