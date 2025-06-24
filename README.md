@@ -165,7 +165,6 @@ mindmap
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ngou1200/animated-assets/main/wave-bg-bottom.svg" width="100%" alt="animated background" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
 
