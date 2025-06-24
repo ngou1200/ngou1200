@@ -1,7 +1,6 @@
 <div align="center">
-
-  <!-- Animated background using SVG waves -->
-  <img src="https://raw.githubusercontent.com/ngou1200/animated-assets/main/wave-bg-top.svg" width="100%" alt="animated background" />
+| ![1](https://i.giphy.com/media/MGdfeiKtEiEPS/giphy.webp) | ![2](https://media0.giphy.com/media/WUBvquKnbnXhbQUd8f/giphy.gif?cid=ecf05e47d67685c5a3576e7b7d500e1297fa39551ced9b59&rid=giphy.gif) | ![3](https://media1.giphy.com/media/Y07ur2ElqAvSqVNauQ/giphy.gif) |
+| --- | --- | --- |
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ngo%20Huu%20Loc&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" />
 
