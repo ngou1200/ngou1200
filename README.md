@@ -31,7 +31,7 @@ const nick = {
     expertise: ["Web Development", "UI/UX Design", "Cloud Solutions"],
     contact: {
         github: "ngou1200",
-        twitter: "ngou1200"
+        twitter: "benhan871986"
     }
 };
 ```
