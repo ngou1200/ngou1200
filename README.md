@@ -28,7 +28,7 @@ const nick = {
     type: "Full-Stack Developer",
     lastActive: "12:39 PM on June 20, 2025",
     motto: "Choose to become extraordinary",
-    expertise: ["Web Development", "UI/UX Design", "Cloud Solutions"],
+    expertise: ["Web Development", "UI/UX Design"],
     contact: {
         github: "ngou1200",
         twitter: "benhan871986"
